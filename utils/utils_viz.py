@@ -83,5 +83,7 @@ def plot_cat2violin(df, categorical_col, numerical_col):
     del df['sorted_category']
 
     print("we did some changes")
+
+    print("we did even more chages")
     
     
